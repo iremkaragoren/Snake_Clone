@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c524ad150ff1a0a4ba13bdfb203cb34a, type: 3}
+  m_Name: GameIconProvider_SO
+  m_EditorClassIdentifier: 
+  m_headUpSprite: {fileID: 21300000, guid: ae3a519cd48625e4985ad2cdf8f9b69a, type: 3}
+  m_headDownSprite: {fileID: 21300000, guid: d6e155f3580dbee459672ba18c0f44e7, type: 3}
+  m_headLeftSprite: {fileID: 21300000, guid: 42b4a8bd1b754914da3d50eaf0d7b1b0, type: 3}
+  m_headRightSprite: {fileID: 21300000, guid: 6457e7445aa0bf84193f10314e1e621f, type: 3}
+  m_bodyHorizontalSprite: {fileID: 21300000, guid: 6cf353b1451c6654e9b9496c42047168, type: 3}
+  m_bodyVerticalSprite: {fileID: 21300000, guid: aca151d9195f58140b1413baa9c095a2, type: 3}
+  m_bodyBottomRightSprite: {fileID: 21300000, guid: e933bb978830b994780279bec4199b45, type: 3}
+  m_bodyBottomLeftSprite: {fileID: 21300000, guid: 5de6f41c156bd1a4daa29435690c6747, type: 3}
+  m_bodyTopRightSprite: {fileID: 21300000, guid: e61c0da6f39d648498402e9d98232907, type: 3}
+  m_bodyTopLeftSprite: {fileID: 21300000, guid: be5bf723f3bb4c04ba00c69b2cf7acfb, type: 3}
+  m_tailUp: {fileID: 21300000, guid: d540f19d589eb0044b968c0372693638, type: 3}
+  m_tailDown: {fileID: 21300000, guid: d3869837d4e584241bb3cce6c6ee9544, type: 3}
+  m_tailLeft: {fileID: 21300000, guid: 4401b21290abd184bbdf08886d4781c0, type: 3}
+  m_tailRight: {fileID: 21300000, guid: ddbf375bcdb56c74485f22e2e012fc60, type: 3}

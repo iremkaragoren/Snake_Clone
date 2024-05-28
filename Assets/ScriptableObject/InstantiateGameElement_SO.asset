@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6378a48f2ceeeef47afa214dde5b0d28, type: 3}
+  m_Name: InstantiateGameElement_SO
+  m_EditorClassIdentifier: 
+  m_applePrefab: {fileID: 713611401842293242, guid: e33fd6b3f9b7f254991e5edaf85f8162, type: 3}
+  m_bodyPrefabs: {fileID: 2002614132004348004, guid: 6d9eaf775791d614397b1190cf5f5147, type: 3}
+  m_headPrefabs: {fileID: 8639014332978884347, guid: a6e22d163aa42e94bb35820ad262b41e, type: 3}
+  m_tailPrefabs: {fileID: 2986321451479217885, guid: 6d6f18f6116aa83478be32f76ca74ac8, type: 3}
+  m_eatenApplePrefabs: {fileID: 2540528261367516726, guid: 11f91875bd1a0d946b5a8c0c0eaae85d, type: 3}
