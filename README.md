@@ -1,4 +1,5 @@
 **Key Features of the Game**
+
 🟩 Grid-Based Area: At the start of the game, a well-organized playing area based on grids is created. Additionally, the snake is also generated when the game starts.
 
 Snake Movement:
